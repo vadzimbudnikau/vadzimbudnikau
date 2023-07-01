@@ -48,8 +48,8 @@ My name is Vadim. I'm a beginner developer, passionate about learning and develo
 
 Here, I showcase my projects related to Python and Django. Below are some of them:
 
-Task Manager (https://github.com/vadzimbudnikau/task-manager) - A simple and convenient task scheduler developed using Django.
-Online Store (https://github.com/vadzimbudnikau/vadzimbudnikau.github.io) - As a part of learning HTML and CSS, I created a basic website for an online store.
+1. Task Manager (https://github.com/vadzimbudnikau/task-manager) - A simple and convenient task scheduler developed using Django.
+2. Online Store (https://github.com/vadzimbudnikau/vadzimbudnikau.github.io) - As a part of learning HTML and CSS, I created a basic website for an online store.
 
 ## Contact Me
 
