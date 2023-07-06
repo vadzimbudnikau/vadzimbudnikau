@@ -10,7 +10,7 @@
 
 - Язык программирования: Python
 - Веб-разработка: Django, HTML, CSS, JavaScript
-- Базы данных: SQLite, PostgreSQL
+- Базы данных: SQLite, PostgreSQL, MySQL
 - Инструменты: Git, PyCharm, Visual Studio Code
 
 ## Мои проекты
@@ -41,7 +41,7 @@ My name is Vadim. I'm a beginner developer, passionate about learning and develo
 
 - Programming Language: Python
 - Web Development: Django, HTML, CSS, JavaScript
-- Databases: SQLite, PostgreSQL
+- Databases: SQLite, PostgreSQL, MySQL
 - Tools: Git, PyCharm, Visual Studio Code
   
 ## My Projects
