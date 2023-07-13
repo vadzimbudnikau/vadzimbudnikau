@@ -30,4 +30,5 @@ You can reach me using the following channels:
 - Email: (vadimbudnikov@gmail.com)
 - LinkedIn: (https://www.linkedin.com/in/vadzim-budnikau-3493a717a/)
 - Telegram: (https://t.me/valeriule)
+
 I'm always open to discussing projects, collaborations, and sharing experiences in the field of Python and Django. Please feel free to get in touch!
