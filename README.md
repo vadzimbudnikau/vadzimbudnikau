@@ -19,16 +19,16 @@ Here, I showcase my projects related to Python and Django. Below are some of the
 
 1.
 2.
-3. Blog Project (https://github.com/vadzimbudnikau/blog_project) - This is a blog project that allows users to create and manage their own blogs.
-4. Task Manager (https://github.com/vadzimbudnikau/task-manager) - A simple and convenient task scheduler developed using Django.
-5. A website (https://github.com/vadzimbudnikau/vadzimbudnikau.github.io) - As a part of learning HTML and CSS, I created a basic website for an online store.
+3. [Blog Project](https://github.com/vadzimbudnikau/blog_project) - This is a blog project that allows users to create and manage their own blogs.
+4. [Task Manager](https://github.com/vadzimbudnikau/task-manager) - A simple and convenient task scheduler developed using Django.
+5. [A website](https://github.com/vadzimbudnikau/vadzimbudnikau.github.io) - As a part of learning HTML and CSS, I created a basic website for an online store.
 
 ## Contact Me
 
 You can reach me using the following channels:
 
-- Email: (vadimbudnikov@gmail.com)
-- LinkedIn: (https://www.linkedin.com/in/vadzim-budnikau-3493a717a/)
-- Telegram: (https://t.me/valeriule)
+- [Email](vadimbudnikov@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/vadzim-budnikau-3493a717a/)
+- [Telegram](https://t.me/valeriule)
 
 I'm always open to discussing projects, collaborations, and sharing experiences in the field of Python and Django. Please feel free to get in touch!
