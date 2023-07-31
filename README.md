@@ -18,8 +18,7 @@ My name is Vadim. I'm a beginner developer, passionate about learning and develo
 Here, I showcase my projects related to Python and Django. Below are some of them:
 
 1.
-2. [Social Network](https://github.com/vadzimbudnikau/social_network_project) - This is a social network project that allows users to connect, interact, and send private messages to each other. Users can create an       
-   account, update their profiles, follow other users, and exchange private messages.
+2. [Social Network](https://github.com/vadzimbudnikau/social_network_project) - This is a social network project that allows users to connect, interact, and send private messages to each other. Users can create an account, update their profiles, follow other users, and exchange private messages.
 3. [Blog Project](https://github.com/vadzimbudnikau/blog_project) - This is a blog project that allows users to create and manage their own blogs.
 4. [Task Manager](https://github.com/vadzimbudnikau/task-manager) - A simple and convenient task scheduler developed using Django.
 5. [A website](https://github.com/vadzimbudnikau/vadzimbudnikau.github.io) - As a part of learning HTML and CSS, I created a basic website for an online store.
