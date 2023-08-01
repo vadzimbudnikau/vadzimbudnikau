@@ -12,7 +12,7 @@ My name is Vadim, and I'm a passionate beginner developer with a keen interest i
 
 - **Programming Language:** ![Python Icon](<i class="fa-brands fa-python"></i>) Python
 - **Web Development:** ![Django Icon](link_to_django_icon) Django, ![HTML Icon](link_to_html_icon) HTML, ![CSS Icon](link_to_css_icon) CSS, ![JavaScript Icon](link_to_js_icon) JavaScript
-- **Databases:** ![SQLite Icon](link_to_sqlite_icon) SQLite, ![PostgreSQL Icon](link_to_postgresql_icon) PostgreSQL, ![MySQL Icon](link_to_mysql_icon) MySQL
+- - **Databases:** ![SQLite Icon](https://fontawesome.com/icons/database?style=solid) SQLite, ![PostgreSQL Icon](link_to_postgresql_icon) PostgreSQL, ![MySQL Icon](link_to_mysql_icon) MySQL
 - **Tools:** ![Git Icon](link_to_git_icon) Git, ![PyCharm Icon](link_to_pycharm_icon) PyCharm, ![VSCode Icon](link_to_vscode_icon) Visual Studio Code
 
 ## My Projects
