@@ -1,34 +1,37 @@
-# GitHub Profile
+GitHub Profile
+Profile Avatar
 
-Hi! This is my GitHub profile, where I share my projects related to Python and Django.
+Hi there! Welcome to my GitHub profile, where I share my projects related to Python and Django.
 
-## About Me
+About Me
+My name is Vadim, and I'm a passionate beginner developer with a keen interest in learning and developing software using Python and Django. My goal is to become an experienced developer and contribute to the exciting field of web development.
 
-My name is Vadim. I'm a beginner developer, passionate about learning and developing software using Python and Django. My goal is to become an experienced developer and contribute to the field of web development.
+My Skills
+Programming Language: Python Python Icon
+Web Development: Django, HTML, CSS, JavaScript Django Icon HTML Icon CSS Icon JavaScript Icon
+Databases: SQLite, PostgreSQL, MySQL SQLite Icon PostgreSQL Icon MySQL Icon
+Tools: Git, PyCharm, Visual Studio Code Git Icon PyCharm Icon VSCode Icon
+My Projects
+Below are some of the projects that I've worked on using Python and Django:
 
-## My Skills
+Social Network - GitHub Repository
 
-- Programming Language: Python
-- Web Development: Django, HTML, CSS, JavaScript
-- Databases: SQLite, PostgreSQL, MySQL
-- Tools: Git, PyCharm, Visual Studio Code
-  
-## My Projects
+Description: This project is a social network that enables users to connect, interact, and exchange private messages. Users can create accounts, update profiles, follow others, and send private messages.
+Blog Project - GitHub Repository
 
-Here, I showcase my projects related to Python and Django. Below are some of them:
+Description: This project is a blog platform that allows users to create and manage their own blogs.
+Task Manager - GitHub Repository
 
-1.
-2. [Social Network](https://github.com/vadzimbudnikau/social_network_project) - This is a social network project that allows users to connect, interact, and send private messages to each other. Users can create an account, update their profiles, follow other users, and exchange private messages.
-3. [Blog Project](https://github.com/vadzimbudnikau/blog_project) - This is a blog project that allows users to create and manage their own blogs.
-4. [Task Manager](https://github.com/vadzimbudnikau/task-manager) - A simple and convenient task scheduler developed using Django.
-5. [A website](https://github.com/vadzimbudnikau/vadzimbudnikau.github.io) - As a part of learning HTML and CSS, I created a basic website for an online store.
+Description: A simple and convenient task scheduler developed using Django.
+A Website - GitHub Repository
 
-## Contact Me
+Description: As part of learning HTML and CSS, I created a basic website for an online store.
+Contact Me
+Feel free to get in touch with me through the following channels:
 
-You can reach me using the following channels:
+Email: vadimbudnikov@gmail.com
+LinkedIn: LinkedIn Profile
+Telegram: Telegram Profile
+I'm always open to discussing projects, collaborations, and sharing experiences in the exciting world of Python and Django. Don't hesitate to reach out!
 
-- [Email](vadimbudnikov@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/vadzim-budnikau-3493a717a/)
-- [Telegram](https://t.me/valeriule)
-
-I'm always open to discussing projects, collaborations, and sharing experiences in the field of Python and Django. Please feel free to get in touch!
+Thank you for visiting my GitHub profile. Let's code and learn together!!
