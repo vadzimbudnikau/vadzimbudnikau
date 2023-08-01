@@ -1,7 +1,5 @@
 # GitHub Profile
 
-![Profile Avatar](link_to_your_avatar_image)
-
 Hi there! Welcome to my GitHub profile, where I share my projects related to Python and Django.
 
 ## About Me
