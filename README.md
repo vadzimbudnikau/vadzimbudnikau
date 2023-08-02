@@ -1,5 +1,7 @@
 # GitHub Profile
 
+![Profile Avatar](link_to_your_avatar_image)
+
 Hi there! Welcome to my GitHub profile, where I share my projects related to Python and Django.
 
 ## About Me
@@ -8,25 +10,25 @@ My name is Vadim, and I'm a passionate beginner developer with a keen interest i
 
 ## My Skills
 
-- **Programming Language:**  Python
-- **Web Development:**  Django,  HTML,  CSS,  JavaScript
-- **Databases:**  SQLite,  PostgreSQL,  MySQL
-- **Tools:**  Git,  PyCharm,  Visual Studio Code
+- **Programming Language:** ![Python Icon](link_to_python_icon) Python
+- **Web Development:** ![Django Icon](link_to_django_icon) Django, ![HTML Icon](link_to_html_icon) HTML, ![CSS Icon](link_to_css_icon) CSS, ![JavaScript Icon](link_to_js_icon) JavaScript
+- **Databases:** ![SQLite Icon](link_to_sqlite_icon) SQLite, ![PostgreSQL Icon](link_to_postgresql_icon) PostgreSQL, ![MySQL Icon](link_to_mysql_icon) MySQL
+- **Tools:** ![Git Icon](link_to_git_icon) Git, ![PyCharm Icon](link_to_pycharm_icon) PyCharm, ![VSCode Icon](link_to_vscode_icon) Visual Studio Code
 
 ## My Projects
 
-Below are some of the projects that I've worked on using Python and Django:
+Here are some of the projects that I've worked on using Python and Django:
 
-1. **Social Network** - [GitHub Repository](https://github.com/vadzimbudnikau/social_network_project)
-   - Description: This project is a social network that enables users to connect, interact, and exchange private messages. Users can create accounts, update profiles, follow others, and send private messages.
+1. [Social Network](https://github.com/vadzimbudnikau/social_network_project)
+   - Description: A social network that enables users to connect, interact, and exchange private messages. Users can create accounts, update profiles, follow others, and send private messages.
 
-2. **Blog Project** - [GitHub Repository](https://github.com/vadzimbudnikau/blog_project)
-   - Description: This project is a blog platform that allows users to create and manage their own blogs.
+2. [Blog Project](https://github.com/vadzimbudnikau/blog_project)
+   - Description: A blog platform that allows users to create and manage their own blogs.
 
-3. **Task Manager** - [GitHub Repository](https://github.com/vadzimbudnikau/task-manager)
+3. [Task Manager](https://github.com/vadzimbudnikau/task-manager)
    - Description: A simple and convenient task scheduler developed using Django.
 
-4. **A Website** - [GitHub Repository](https://github.com/vadzimbudnikau/vadzimbudnikau.github.io)
+4. [A Website](https://github.com/vadzimbudnikau/vadzimbudnikau.github.io)
    - Description: As part of learning HTML and CSS, I created a basic website for an online store.
 
 ## Contact Me
