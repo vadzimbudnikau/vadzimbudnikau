@@ -19,7 +19,7 @@
 ###
 
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=vadzimbudnikau.vadzimbudnikau&left_color=dimgrey&left_text=Profile views"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=vadzimbudnikau.vadzimbudnikau&left_color=dimgrey&left_text=Profile%20views" alt="Profile views" />
 </div>
 
 ###
