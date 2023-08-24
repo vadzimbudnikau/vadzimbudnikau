@@ -47,7 +47,7 @@
   <img src="https://streak-stats.demolab.com?user=vadzimbudnikau&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-<h3 align="left">🔥 My Projects :</h3>
+<h3 align="left">📚 My Projects:</h3>
 
 <div align="left">
   <ul>
