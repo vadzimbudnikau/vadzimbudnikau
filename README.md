@@ -47,7 +47,16 @@
   <img src="https://streak-stats.demolab.com?user=vadzimbudnikau&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-<h3 align="left">Here are some of the projects that I've worked on using Python and Django:<br><br>1. [Social Network](https://github.com/vadzimbudnikau/social_network_project)<br>   - A social network enabling users to connect, interact, and exchange private messages. Users can create accounts, update profiles, follow others, and send private messages.<br><br>2. [Blog Project](https://github.com/vadzimbudnikau/blog_project)<br>   - A blog platform allowing users to create and manage their own blogs.<br><br>3. [Task Manager](https://github.com/vadzimbudnikau/task-manager)<br>   - A simple and convenient task scheduler developed using Django.<br><br>4. [A Website](https://github.com/vadzimbudnikau/vadzimbudnikau.github.io)<br>   - A basic website for an online store as part of learning HTML and CSS.</h3>
+<h3 align="left">🔥 My Projects :</h3>
+
+<div align="center">
+  <ul>
+    <li><a href="https://github.com/vadzimbudnikau/social_network_project">Social Network</a> - A social network enabling users to connect, interact, and exchange private messages. Users can create accounts, update profiles, follow others, and send private messages.</li>
+    <li><a href="https://github.com/vadzimbudnikau/blog_project">Blog Project</a> - A blog platform allowing users to create and manage their own blogs.</li>
+    <li><a href="https://github.com/vadzimbudnikau/task-manager">Task Manager</a> - A simple and convenient task scheduler developed using Django.</li>
+    <li><a href="https://github.com/vadzimbudnikau/vadzimbudnikau.github.io">A Website</a> - A basic website for an online store as part of learning HTML and CSS.</li>
+  </ul>
+</div>
 
 <br clear="both">
 
