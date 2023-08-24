@@ -53,6 +53,7 @@
 
 <div align="left">
   <ul>
+    <li><a href="https://github.com/vadzimbudnikau/techhub-phones">Online Store</a> - This web application allows users to explore a wide range of tech products, search for specific items, apply filters, and make purchases online.</li>
     <li><a href="https://github.com/vadzimbudnikau/social_network_project">Social Network</a> - A social network enabling users to connect, interact, and exchange private messages. Users can create accounts, update profiles, follow others, and send private messages.</li>
     <li><a href="https://github.com/vadzimbudnikau/blog_project">Blog Project</a> - A blog platform allowing users to create and manage their own blogs.</li>
     <li><a href="https://github.com/vadzimbudnikau/task-manager">Task Manager</a> - A simple and convenient task scheduler developed using Django.</li>
