@@ -39,6 +39,7 @@
   <img src="https://cdn.simpleicons.org/pycharm/000000" height="40" alt="pycharm logo"  />
   <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="vscode logo"  />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
 </div>
 
 <h3 align="left">🔥   My Stats :</h3>
